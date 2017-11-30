@@ -21,7 +21,7 @@ Full Stack Developer, IWF Web Solutions
 * **CMS and Web Sites** - `Drupal` / `Craft CMS` / `Contao` / `Wordpress` / `cPanel` / `Plesk`
 * **Professional Devel Methods** - `Scrum` / `Test Driven` / `Git Workflows`
 * **DevOps** - `Docker` / `Linux/Bash (i use vim)` / `Jenkins` 
-* **Mobile Development ** - `Android` / `Ionic Framework` / `Bluetooth Beacons`
+* **Mobile Development** - `Android` / `Ionic Framework` / `Bluetooth Beacons`
 * **Data Management and Analytics** - `R` / `SQL` / `Statistics` 
     
     
