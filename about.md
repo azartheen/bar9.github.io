@@ -4,52 +4,38 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Some words about me will be following very soon.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* MSc in Engineering (Information and communication systems) from Bern University of Applied Sciences
+* BSc in Forest Management from Bern University of Applied Sciences
 
 ## Roles
 
-Founder, ABC Organisation
+Full Stack Developer, IWF Web Solutions
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Web Development** - `PHP/Symfony` / `LAMP/LEMP Stack` / `HTML/CSS` / `JavaScript/ExtJS/Angular`
+* **CMS and Web Sites** - `Drupal` / `Craft CMS` / `Contao` / `Wordpress` / `cPanel` / `Plesk`
+* **Professional Devel Methods** - `Scrum` / `Test Driven` / `Git Workflows`
+* **DevOps** - `Docker` / `Linux/Bash (i use vim)` / `Jenkins` 
+* **Mobile Development ** - `Android` / `Ionic Framework` / `Bluetooth Beacons`
+* **Data Management and Analytics** - `R` / `SQL` / `Statistics` 
     
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Won the BaselHack 2017**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
+  [Clockchain Project](https://github.com/rordi/11_clockchain)  
+   
 ***
 
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+* [**Todo: complete this list**](#) 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[rolandbrand11@gmail.com](mailto:rolandbrand11@gmail.com)
