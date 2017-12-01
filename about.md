@@ -8,7 +8,7 @@ Some words about me will be following very soon.
 
 ## Education
 
-* MSc in Engineering (Information and communication systems) from Bern University of Applied Sciences
+* MSc in Engineering (Information and Communication Systems) from Bern University of Applied Sciences
 * BSc in Forest Management from Bern University of Applied Sciences
 
 ## Roles
@@ -28,13 +28,13 @@ Full Stack Developer, IWF Web Solutions
 ## Achievements
 
 
-* [**Won the BaselHack 2017**](#) 
+* [**BaselHack 2017 Winning Team**](#) 
    
   [Clockchain Project](https://github.com/rordi/11_clockchain)  
    
 ***
 
-* [**Todo: complete this list**](#) 
+* [**To do: complete this list**](#) 
 
 ## Contact me
 
