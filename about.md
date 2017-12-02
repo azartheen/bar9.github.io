@@ -15,8 +15,6 @@ I just keep producing those, which is a bit sad.
 
 If you could see way of engaging in an open source project with me, feel free to contact me.
 
-...
-
 ## Education
 
 * MSc in Engineering (Information and Communication Systems) from BUAS
