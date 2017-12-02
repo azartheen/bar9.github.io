@@ -9,11 +9,11 @@ Hi, thank you for your visit.
 I am a software engineer and am working as a full stack web developer. I am coming from a forestry background and have been
 developing software since 2011.
 
-Please have a look at my [Github reopositories](https://github.com/bar9?tab=repositories), especially
+Please have a look at my [Github repositories](https://github.com/bar9?tab=repositories), especially
 if you hope to find some idea I haven't found the time to carry forward.
 I just keep producing those, which is a bit sad.
 
-If you could see way of engaging in an open source project with me, feel free to contact me.
+If you could see way of engaging in an open source project with me, or discuss any ideas, feel free to contact me.
 
 ## Education
 
@@ -22,7 +22,7 @@ If you could see way of engaging in an open source project with me, feel free to
 
 ## Roles
 
-Full Stack Developer --- IWF Web Solutions (current)
+Full Stack Developer --- [IWF Web Solutions](http://web-solutions.io) (current)
 
 Drupal Site Builder --- Freelance
 
@@ -46,7 +46,7 @@ Startup Entrepreneur (CEO, Finance, IT) --- Breakfaster GmbH
     
 ## Achievements
 
-* [**BaselHack 2017 Winning Team**](#) 
+* **BaselHack 2017 Winning Team**
    
   [Clockchain Project](https://github.com/rordi/11_clockchain)
 
