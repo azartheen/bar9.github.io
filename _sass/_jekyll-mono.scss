@@ -34,6 +34,10 @@
            color: darken($hl-color,20);
          }
      }
+     *{
+        background-color: rgba(50,75,100,.9);
+        padding: .5em;
+     }
  }
  
 /*
@@ -90,7 +94,12 @@ button.button-primary:focus {
 
 .intro-header {
   border-top: 5px solid white;
-  background-color:$mono-color;
+  background:
+    linear-gradient(
+      rgba(200, 225, 255, 0.5),
+      rgba(200, 225, 255, 0.5)
+    ),
+    url('images/subway-lines.png');
 }
 
 .intro-header .post-heading {
@@ -300,3 +309,6 @@ button.button-primary:focus {
 	pointer-events: auto;
 }
 
+.wrapper-masthead {
+    background-color: rgba(50,75,100,.95);
+}
