@@ -36,7 +36,8 @@ with a Flask server seems to be fairly straightforward (and without dependencies
 providers). We already implemented this architecture approach in part during the hack, but
 abandoned it in favor of an API that was already in place.
 
-Thanks to the whole team for this experience, thanks to Jutta for being in th photo below with me, 
+Thanks to the whole team and the OpenData guys for the amazing experience, 
+thanks to Jutta for being in the photo below with me, 
 and to my employer **[IWF Web Solutions](https://www.iwf.ch/web-solutions)** for letting
 me go to the hackdays partly during working time!
 
