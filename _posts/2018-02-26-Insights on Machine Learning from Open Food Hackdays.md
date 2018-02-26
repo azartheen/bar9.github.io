@@ -9,6 +9,8 @@ Last weekend I participated at the Open Food Hackdays in Basel. As on any hackat
 I have joined so far, it meant a lot of fun, new acquaintances and most of all, fast-track learning. 
 This time, I learned some valuable lessons on machine learning.
 
+![Machine Learning](../images/pexels-photo-595804.png)
+
 I joined the team _prognolite_, which has already been existing as a startup and was
 already very successful at the previous Open Food Hackdays in Lausanne. Enriched with
 a few data scientists, a UX specialist and me in the role of frontend dev, we hacked away for
