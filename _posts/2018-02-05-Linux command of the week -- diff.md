@@ -24,15 +24,13 @@ The output of the diff command is empty, if the files are identical. Otherwise a
 specialized output format is used for outputting all differences. Look at the output of our
 example command:
 
-```
-100,101c87,88
+```100,101c87,88
 < server-id         = 100
 < log_bin           = /var/log/mysql/mysql-bin.log
 ---
 > #server-id        = 1
 > #log_bin          = /var/log/mysql/mysql-bin.log
 ...
-
 ```
 
 I advise you try to get familiar with this format (in order to be able to read it). 
