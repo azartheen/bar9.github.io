@@ -69,7 +69,7 @@ well be 10% off or more, the higher the variance.
 ## More on this?
 The example calculations and graphics were developed in a _Jupyter Notebook_, more on them will follow in
 my _Machine learning article series_ soon to come. You can check out the notebook 
-[here](https://github.com/bar9/estimates/blob/master/Estimating%2BErrors.ipynb) on GitHub.
+[here](https://github.com/bar9/estimates) on GitHub.
 
 If you would like to see more on this topic or would like to see the current notebook evolve into 
 an interactive tool to calculate long tail bias, please feel free to star the repo or share/like 
