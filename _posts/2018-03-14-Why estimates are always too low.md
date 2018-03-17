@@ -54,7 +54,7 @@ have learned that at least 2 in 3 times we have developed similar things in the 
 this range. So far, normal distribution applies, we are within the standard deviation and the 66%
 percentile. And we never go below zero.
 But we have forgotten the __long tail__, far to the right of the distribution. 
-> The long tail is the one time we spent 18 hours on such a task,
+> The long tail is the one time we spent 17 hours on such a task,
 > because requirements changed the minute before completion. That's not a frequent
 > case, and we tend to think we can ignore it. 
 
