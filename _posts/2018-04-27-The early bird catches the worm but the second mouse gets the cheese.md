@@ -2,13 +2,15 @@
 layout: post
 title: The early bird catches the worm but the second mouse gets the cheese
 author: Roland Brand
-published: false
+published: false 
 ---
 
 We are living in the information age; the frequency of new technologies popping up is astounding.
-The new stuff is always better it seems, and if you're not catching up you're old fashioned. 
-In software development this is true as well, possibly even more extreme than in other areas of work. 
-But is wise to always chase after the shiny new?
+The "new stuff" is always better it seems, and if you're not catching up you're old fashioned. 
+In software development this is true as well. But is wise to always chase after the shiny new? X reasons why maybe not:
+
+* Test coverage
+
 
 The information age means new languages and frameworks pop up every year, package and source repositories
 are growing at an exponential rate. Paradigms, processes and methodologies evolve in a comparable pace. 
@@ -29,3 +31,5 @@ but the fear is often quite rational
 * Reliability and maturity is what you want. 
 In time, the cool, new , more productive tool will be mature as well (or have died). Take it up then. Best pracices will
 have emerged.
+
+
