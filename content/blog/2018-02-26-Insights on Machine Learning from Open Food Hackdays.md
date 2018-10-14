@@ -9,7 +9,7 @@ Last weekend I participated at the Open Food Hackdays in Basel. As on any hackat
 I have joined so far, it meant a lot of fun, new acquaintances and most of all, fast-track learning. 
 This time, I learned some valuable lessons on machine learning.
 
-![Machine Learning](../images/pexels-photo-595804.png)
+![Machine Learning](../../images/pexels-photo-595804.png)
 
 I joined the team _prognolite_, which has already been existing as a startup and was
 already very successful at the previous Open Food Hackdays in Lausanne. Enriched with
@@ -43,7 +43,7 @@ thanks to Jutta for being in the photo below with me,
 and to my employer **[IWF Web Solutions](https://www.iwf.ch/web-solutions)** for letting
 me go to the hackdays partly during working time!
 
-![Me and Jutta Jerlich (from BaselHack)](../images/hackdays.jpg)
+![Me and Jutta Jerlich (from BaselHack)](../../images/hackdays.jpg)
 Photo: Jutta Jerlich from BaselHack and me
 
 ## Links

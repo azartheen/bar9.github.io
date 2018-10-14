@@ -6,8 +6,30 @@ published: false
 ---
 
 We are living in the information age; the frequency of new technologies popping up is astounding.
-The "new stuff" is always better it seems, and if you're not catching up you're old fashioned. 
-In software development this is true as well. But is wise to always chase after the shiny new? X reasons why maybe not:
+The "new stuff" is always better it seems, and if you're not catching up, state of the art can
+become pointless quickly.
+
+In software engineering this is especially true.
+But is wise to always chase after the shiny new? Here are 3 reasons why maybe not:
+
+## 1. The first 80% percent is the easy part
+* migrations
+
+## 2. The future has always looked bright
+* Remember _2001 a space odyssey_?
+For half a century, new technologies have been claiming to be revolutionary, to help us _take the next step_, 
+maybe even do the programming for us one day. 
+This has not happened so far, and through the perception of sofware customers, applications
+have probably taken incremental steps, but never the exponential improvements as expected.
+
+## 1. Don't be the guinea pig
+
+> Yes, there are two paths you can go by, but in the long run,
+there's still time to change the road you're on
+
+From the lyrics of 'Stairway to heaven' by Led Zeppelin
+
+
 
 * Test coverage
 
@@ -16,10 +38,7 @@ The information age means new languages and frameworks pop up every year, packag
 are growing at an exponential rate. Paradigms, processes and methodologies evolve in a comparable pace. 
 In consequence, as developers, once we really master any of these tools, they are already labeled _stone age_.
 
-For half a century, new technologies have been claiming to be revolutionary, to help us _take the next step_, 
-maybe even do the programming for us one day. 
-This has not happened so far, and through the perception of sofware customers, applications
-have probably taken incremental steps, but no exponential improvements as expected.
+
 
 Yet, if you 
 * who doesn't, is lazy, old-fashioned, in many respects

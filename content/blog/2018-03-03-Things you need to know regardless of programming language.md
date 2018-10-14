@@ -21,7 +21,7 @@ They all are not coupled to any language, so they could even be learned before l
 In 10 to 20 years, when all the cool languages of today are history, many of the points below
 will still be relevant and not have changed so much. So it's well worth learning those.
 
-![unix command line](../images/unix-ls.jpeg)
+![unix command line](../../images/unix-ls.jpeg)
 
 ## Version control
 Version control allows projects to stretch over time and many people and teams to collaborate

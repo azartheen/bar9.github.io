@@ -22,7 +22,7 @@ terribly wrong!
 If we assume a __+/-__ to be reasonable the same amount to both sides of the estimate, we implicitly assume
 a normal distribution (with mean 6) as shown in the following graphic:
 
-![Expected Distribution](../images/expected.png)
+![Expected Distribution](../../images/expected.png)
 
 
 However, all time durations below zero cannot exist by definition. You cannot win time with a task, you
@@ -34,7 +34,7 @@ can just spend more or less of it.
 Hence, to correct our assumption to a more realistic (probably still wrong) distribution, we cancel out
 the red area below:
 
-![Impossible Cases](../images/impossible.png)
+![Impossible Cases](../../images/impossible.png)
 
 But with this cut, our estimated mean is not the expected mean of the distribution anymore. Basically
 we have to shift it to the right as far as it can fit the red surface between its old and new position.
@@ -42,7 +42,7 @@ This corresponds to the integral under the probability density function.
 
 You can see the correction in orange color below:
 
-![Deviation from Estimate](../images/deviation.png)
+![Deviation from Estimate](../../images/deviation.png)
 
 So by how much is our 6 (+/- 4) hours estimation off? In that case, __13.5% off. Systematically.__
 

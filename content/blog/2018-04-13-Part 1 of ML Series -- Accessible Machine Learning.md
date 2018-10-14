@@ -19,7 +19,7 @@ earth and it's really more statistics than science fiction magic.
 For instance, when looking at the data science process described below, Skynet probably wanders off our mind
 but you might start thinking about Excel.
 
-![Data Science Process](../images/data-science-process.png)
+![Data Science Process](../../images/data-science-process.png)
 
 Machine learning tools can not do that process for you (and probably never will, since it's still hard to imagine
 a computer asking an interesting question to start with). But they allow you to dump Excel and provide a hugely __simplified__ way of dealing with 

@@ -21,7 +21,7 @@ Access for developers is as easy as never before, with neural networks as a serv
 clouds. However these facilities have promoted vendor lock-in so far. That is one of the reasons to be thrilled about
 ONNX:
 
-![ONNX](../images/Microsoft-ONNX-Facebook.jpg)
+![ONNX](../../images/Microsoft-ONNX-Facebook.jpg)
 
 ## What is ONNX 
 __Open Neural Network Exchance__ (ONNX) is a formalized, open exchange format for neural networks, enabling interoperability
