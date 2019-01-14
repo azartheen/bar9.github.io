@@ -9,7 +9,7 @@ Software engineering is getting easier and harder at the same time. New tools an
 while increasing quality standards and wider scope for software make this power a necessity. The term __full stack__ is rather new, and still the size of the average stack seems to keep increasing. The days of __'the' documentation__ have long gone. This is why I instantly fell in love with zeal.
 
 ## Taking a Stroll
-We tend to underestimate the importance of leisure and aimless actions. By spontaneously and rather aimlessly browsing the Ubuntu software center, I seem to have fount a gem!
+We tend to underestimate the importance of leisure and aimless actions. By spontaneously and rather aimlessly browsing the Ubuntu software center, I seem to have found a gem!
 __Zeal__ is calling itself a 'simple offline documentation browser', and this description fits rather nicely. Zeal is an open source project by Oleg Shparber and other contributors and has been inpired by the Mac-only __Dash__. The screenshot below shows its basic functionality: searching documentation.
 
 ![Zeal](../images/zeal.png)
